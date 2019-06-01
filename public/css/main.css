@@ -1,0 +1,29 @@
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.navbar-right a {
+    padding-bottom: 0;
+}
+
+.alert-danger {
+    margin-top: 20px;
+}
+
+.alert-danger h4 {
+    margin-bottom: 0;
+}
+
+h1 {
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+
+h4 {
+    margin-top: 30px;
+}
+
+.display-block {
+    display: block;
+}
